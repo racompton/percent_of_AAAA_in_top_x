@@ -8,3 +8,5 @@ The default is for the top 100 domains and the default resolver is 8.8.8.8
 
 Example output:
 `There are 28.00 percent AAAA records for the top 100 domains.`
+
+BTW, 28% is pretty bad!  Come on content providers!  Get on the IPv6 train!  https://pulse.internetsociety.org/technologies
